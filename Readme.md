@@ -1,3 +1,10 @@
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Sarath_Botz_Auto-filter-bot_v2+Telegram+Bot+repo;Created+by+Sarath;This+is+a+userbot+private+and+public+bot;With+more+features)](https://git.io/typing-svg)
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/sarathbotz/count.svg)
+
+
 # Adv Auto Filter Bot V2
 
 <p align="center">
