@@ -8,13 +8,13 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/sarathbotz/Sarath_Botz_Auto-filter-bot_v2/stargazers">
+    <img src="https://img.shields.io/github/stars/sarathbotz/Sarath_Botz_Auto-filter-bot_v2?style=social">
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/sarathbotz/Sarath_Botz_Auto-filter-bot_v2/fork">
+    <img src="https://img.shields.io/github/forks/sarathbotz/Sarath_Botz_Auto-filter-bot_v2?label=Fork&style=social">
 
   </a>  
 </p>
@@ -75,12 +75,10 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/sarathbotz/Sarath_Botz_Auto-filter-bot_v2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -99,7 +97,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/Malamove1) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -108,10 +106,3 @@ Do Fork And Star The Repository If You Liked It.
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL v3.0.](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-
-## Credits
-
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
